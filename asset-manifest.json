@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5987830d.css",
+    "main.js": "./static/js/main.9576e1a3.js",
+    "static/media/bagroundimage.jpg": "./static/media/bagroundimage.cad28187660d8be7d0e9.jpg",
+    "static/media/princessa.png": "./static/media/princessa.2f6b076263baa39d66c2.png",
+    "static/media/im1.jpg": "./static/media/im1.4c06426dbd5786621744.jpg",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/zucchini.png": "./static/media/zucchini.b0f2a1400a66a9cd19fa.png",
+    "static/media/beans.png": "./static/media/beans.16a373ffce19a2d93a93.png",
+    "static/media/tomato.png": "./static/media/tomato.abeecff7307677cd95ae.png",
+    "static/media/eggplant.png": "./static/media/eggplant.611b7990d89cd74c0a85.png",
+    "static/media/pepper.png": "./static/media/pepper.ac2d645eccc5e90bbf00.png",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "./index.html",
+    "static/media/burger-menu-svgrepo-com.svg": "./static/media/burger-menu-svgrepo-com.a985c3935bd8c94a6df84f5acc9159fc.svg",
+    "main.5987830d.css.map": "./static/css/main.5987830d.css.map",
+    "main.9576e1a3.js.map": "./static/js/main.9576e1a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5987830d.css",
+    "static/js/main.9576e1a3.js"
+  ]
+}
